@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hady-muhammed.github.io/Portfolio/](https://hady-muhammed.github.io/Portfolio/)
 
-- 📫 How to reach me **hadyymohamed@gmail.com**
+- 📫 How to reach me **hadyymohammed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
