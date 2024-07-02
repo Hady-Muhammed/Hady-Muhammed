@@ -7,11 +7,17 @@
 - 👨‍💻 All of my projects are available at [https://hady-muhammed.github.io/Portfolio/](https://hady-muhammed.github.io/Portfolio/)
 
 - 📫 How to reach me **hadyymohammed@gmail.com**
+  
+- 📖 Check out my blog technical articles at [https://hady.hashnode.dev/](https://hady.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hady-muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hady-muhammed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hady-muhammed" target="_blank">
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
