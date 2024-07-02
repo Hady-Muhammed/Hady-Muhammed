@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hady Muhammed</h1>
-<h3 align="center">A passionate Frontend engineer</h3>
+<h1 align="center">Why Hire Me? 👋 I'm Hady Muhammed
+</h1>
+<h3 align="center">Crafting Exceptional Frontend Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hady-muhammed&label=Profile%20views&color=0e75b6&style=flat" alt="hady-muhammed" /> </p>
 
