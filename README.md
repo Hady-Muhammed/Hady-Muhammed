@@ -1,4 +1,4 @@
-<h1 align="center">Why Hire Me? 👋 I'm Hady Muhammed
+<h1 align="center">Why Hire Me? ⚡ I'm Hady Muhammed
 </h1>
 <h3 align="center">Crafting Exceptional Frontend Experiences</h3>
 
